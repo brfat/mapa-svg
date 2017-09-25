@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="pt-br">
+    <meta charset="UTF-8">
+    <title>Mapa</title>
+    <link rel="stylesheet" href="assets/css/modal-map.css">
+    <link rel="stylesheet" href="assets/css/jquery.webui-popover.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+<body>
+<div class="modal-map initial-map">
+    <div class="loader"></div>
+</div>
+<div class="texto">
+    <img src="">
+</div>
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script type="text/javascript">
+    jQuery(document).ready(function () {
+        $.ajax({
+            url: "map.html",
+            dataType: "html",
+            success: function(result){
+                setTimeout(function(){
+                    $(".modal-map").html(result).removeClass("initial-map");
+                    $(".loader").remove();
+                },2500);
+            }});
+//        $.ajax({
+//            url: "https://api.github.com/users/bsantana",
+//            dataType: 'json',
+//            crossDomain: true,
+//            contentType: "application/json",
+//            success: function(result){
+//                console.log(result);
+//                console.log(result[0]);
+//                $(".texto").append(result['name']).find('img').attr("src",result["avatar_url"]);
+//            }});
+
+    });
+
+</script>
+</body>
+</html>
