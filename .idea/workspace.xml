@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modal-map.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="modal-map.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/modal-map.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7759473" vertical-offset="5411" max-vertical-offset="6120">
+            <state vertical-scroll-proportion="0.0" vertical-offset="5411" max-vertical-offset="6120">
               <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
               <folding>
                 <element signature="e#16#43#0" expanded="false" />
@@ -59,6 +59,16 @@
                 <element signature="e#139#158#0" expanded="false" />
                 <element signature="e#167#188#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,11 +95,11 @@
         <option value="$PROJECT_DIR$/map2.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/assets/main.js" />
-        <option value="$PROJECT_DIR$/assets/css/responsive.css" />
         <option value="$PROJECT_DIR$/teste.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/map.html" />
         <option value="$PROJECT_DIR$/assets/css/modal-map.css" />
+        <option value="$PROJECT_DIR$/assets/css/responsive.css" />
       </list>
     </option>
   </component>
@@ -236,7 +246,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -494,7 +504,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/modal-map.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7759473" vertical-offset="5411" max-vertical-offset="6120">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5411" max-vertical-offset="6120">
           <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
           <folding>
             <element signature="e#16#43#0" expanded="false" />
@@ -504,6 +514,14 @@
             <element signature="e#139#158#0" expanded="false" />
             <element signature="e#167#188#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
