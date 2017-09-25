@@ -46,10 +46,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modal-map.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="modal-map.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/modal-map.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5411" max-vertical-offset="6120">
+            <state vertical-scroll-proportion="0.7759473" vertical-offset="5411" max-vertical-offset="6120">
               <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
               <folding>
                 <element signature="e#16#43#0" expanded="false" />
@@ -59,16 +59,6 @@
                 <element signature="e#139#158#0" expanded="false" />
                 <element signature="e#167#188#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -504,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/modal-map.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5411" max-vertical-offset="6120">
+        <state vertical-scroll-proportion="0.7759473" vertical-offset="5411" max-vertical-offset="6120">
           <caret line="358" column="17" selection-start-line="358" selection-start-column="17" selection-end-line="358" selection-end-column="17" />
           <folding>
             <element signature="e#16#43#0" expanded="false" />
@@ -514,14 +504,6 @@
             <element signature="e#139#158#0" expanded="false" />
             <element signature="e#167#188#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
